@@ -1,1 +1,1 @@
-# Fake-news-detection-on-Twitter
+# Rumor-detection-on-Twitter
